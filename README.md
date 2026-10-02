@@ -382,7 +382,7 @@ first full run. A 70-iteration fit ranks candidates almost identically to a
 while letting the search visit far more of them. The chosen winner is then rebuilt
 at full `max_iter` before scoring, so the deployed model loses no quality.
 
----
+|------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 13. Round-2 live-patch playbook
 
